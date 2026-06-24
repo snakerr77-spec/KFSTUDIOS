@@ -1,0 +1,16 @@
+<svg width="430" height="108" viewBox="0 0 430 108" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="142" y2="108" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffe4eb"/><stop offset=".35" stop-color="#ff4d85"/><stop offset=".72" stop-color="#8f0833"/><stop offset="1" stop-color="#ffd1dc"/>
+    </linearGradient>
+    <filter id="s" x="-20%" y="-20%" width="150%" height="150%"><feDropShadow dx="0" dy="0" stdDeviation="3" flood-color="#ff3b7d" flood-opacity=".65"/></filter>
+  </defs>
+  <g filter="url(#s)">
+    <text x="6" y="76" font-family="Georgia, 'Times New Roman', serif" font-size="82" letter-spacing="-8" fill="url(#g)">KF</text>
+    <circle cx="112" cy="58" r="24" stroke="url(#g)" stroke-width="4"/>
+    <path d="M112 34l-7 24 22-11-15-13zM136 56l-24 2 16 18 8-20zM120 83l-8-25-14 22 22 3zM92 74l20-16-23-7 3 23zM93 43l19 15 3-25-22 10z" stroke="#ffeaf0" stroke-width="2" stroke-linejoin="round"/>
+  </g>
+  <path d="M158 55h42" stroke="#ff4d85" opacity=".6"/>
+  <text x="216" y="63" font-family="Montserrat, Arial, sans-serif" font-size="30" letter-spacing="16" fill="#fff6f9">STUDIOS</text>
+  <text x="225" y="88" font-family="Montserrat, Arial, sans-serif" font-size="12" letter-spacing="7" fill="#ff7fa8">FOTOGRAFIA</text>
+</svg>
