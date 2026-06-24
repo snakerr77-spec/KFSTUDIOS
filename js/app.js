@@ -187,7 +187,7 @@ contactModal?.addEventListener('click', (event) => {
 });
 
 const whatsappMaskInput = document.querySelector('input[name="whatsapp"]');
-const KF_WHATSAPP_NUMBER = '+55 15 99640-6968';
+const KF_WHATSAPP_NUMBER = '+551599640-6968';
 
 function normalizeSpaces(value) {
   return String(value || '').replace(/\s+/g, ' ').trim();
@@ -228,7 +228,7 @@ function setupStaticWhatsAppLinks() {
   const quickMessage = encodeURIComponent(buildQuickWhatsAppMessage('site'));
   const footerMessage = encodeURIComponent(buildQuickWhatsAppMessage('rodape'));
 
-  document.querySelectorAll('a[href^="https://wa.me/551599812004"]').forEach((link) => {
+  document.querySelectorAll('a[href^="https://wa.me/+551599640-6968"]').forEach((link) => {
     const isFooter = link.closest('.footer') || link.classList.contains('social-link-whatsapp');
     link.href = `https://wa.me/${KF_WHATSAPP_NUMBER}?text=${isFooter ? footerMessage : quickMessage}`;
   });
