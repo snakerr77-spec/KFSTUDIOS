@@ -1,0 +1,7 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="5" y="5" width="110" height="110" rx="28" fill="#12060b" stroke="#ff4d85" stroke-width="3"/>
+  <defs><linearGradient id="g" x1="16" y1="12" x2="89" y2="97"><stop stop-color="#ffe4eb"/><stop offset=".45" stop-color="#ff4d85"/><stop offset="1" stop-color="#7a062b"/></linearGradient></defs>
+  <text x="15" y="78" font-family="Georgia, 'Times New Roman', serif" font-size="68" letter-spacing="-8" fill="url(#g)">KF</text>
+  <circle cx="78" cy="58" r="17" stroke="#ff8db3" stroke-width="3"/>
+  <path d="M78 42l-5 16 15-8-10-8zM94 57l-16 1 11 12 5-13zM84 75l-6-17-9 15 15 2zM65 69l13-11-15-5 2 16z" stroke="#ffd8e4" stroke-width="1.8" stroke-linejoin="round"/>
+</svg>
