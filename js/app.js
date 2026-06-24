@@ -187,7 +187,7 @@ contactModal?.addEventListener('click', (event) => {
 });
 
 const whatsappMaskInput = document.querySelector('input[name="whatsapp"]');
-const KF_WHATSAPP_NUMBER = '551599812004';
+const KF_WHATSAPP_NUMBER = '+55 15 99640-6968';
 
 function normalizeSpaces(value) {
   return String(value || '').replace(/\s+/g, ' ').trim();
